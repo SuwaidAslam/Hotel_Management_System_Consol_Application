@@ -5,6 +5,5 @@
 3. Should be something like that anyway, I haven't had Dev C++ installed for many years, so I had to look at some screenshots on Google to remember.
 
 # Demo Video
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WEZl6fhUQvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
+[![Hotel Management System Console Application Demo](https://img.youtube.com/vi/WEZl6fhUQvE/0.jpg)](https://www.youtube.com/watch?v=WEZl6fhUQvE)
